@@ -1,6 +1,34 @@
 [
     {
-        "name": "",
-        "image": ""
+        "name": "Albedo",
+        "image": "https://paimon.moe/images/characters/albedo.png"
+    },
+    {
+        "name": "Aloy",
+        "image": "https://paimon.moe/images/characters/aloy.png"
+    },
+    {
+        "name": "Amber",
+        "image": "https://paimon.moe/images/characters/amber.png"
+    },
+    {
+        "name": "Arataki Itto",
+        "image": "https://paimon.moe/images/characters/arataki_itto.png"
+    },
+    {
+        "name": "Barbara",
+        "image": "https://paimon.moe/images/characters/barbara.png"
+    },
+    {
+        "name": "Beidou",
+        "image": "https://paimon.moe/images/characters/beidou.png"
+    },
+    {
+        "name": "bennett",
+        "image": "https://paimon.moe/images/characters/bennett.png"
+    },
+    {
+        "name": "Chongyun",
+        "image": "https://paimon.moe/images/characters/chongyun.png"
     }
 ]
