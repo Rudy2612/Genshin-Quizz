@@ -1,0 +1,35 @@
+.caracter-bloc {
+    width: 60%;
+    margin-left: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+
+}
+
+.character-item {
+    width: 96px;
+    height: auto;
+    transition-duration: .1s;
+    border-radius: 12px;
+    background: red;
+}
+
+.character-image {
+    width: 96px;
+    height: 96px;
+    margin: 0;
+    margin-bottom: -7px;
+}
+
+.character-name {
+    margin: 0;
+    text-align: center;
+    background: #2d325a;
+    color: white;
+    border-radius: 0 0 11px 11px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 5px;
+}

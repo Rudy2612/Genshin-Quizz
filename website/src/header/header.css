@@ -1,0 +1,12 @@
+header {
+    background: #202442;
+    height: 40px;
+}
+
+header p {
+    margin: 0;
+    color: white;
+    line-height: 40px;
+    font-weight: 600;
+    margin-left: 20px;
+}
