@@ -1,5 +1,4 @@
-
-.bottom-bloc{
+.bottom-bloc {
     position: absolute;
     bottom: 40px;
     text-align: center;
@@ -8,20 +7,22 @@
     padding-bottom: 10px;
 }
 
-.input-character{
+.input-character {
     height: 40px;
     width: 500px;
     font-size: 20px;
     font-weight: 500;
     border-radius: 5px;
     border: none;
-    background: #2d325a;
-    color: #FFF;
+    background: #fbf8f4;
+    color: #3b4354;
     padding-right: 1rem;
     padding-left: 1rem;
     font-size: 100%;
+    box-shadow: 0 0 0 4px #fffdfa, 0 4px 8px 8px rgba(0, 0, 0, 0.05);
+    border: 3px solid #f2edea;
 }
 
-.input-character:focus{
+.input-character:focus {
     outline: none;
 }

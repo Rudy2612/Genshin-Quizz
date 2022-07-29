@@ -33,16 +33,21 @@ export default class game extends Component {
     }
 
 
+
     handleChange = e => {
+        // -> Set value to input
         this.setState({ input: e.target.value });
 
-        // Initialisation du timestamps du début
+
+        // -> Initialisation du timestamps du début
         if (!this.state.timestamp) {
             this.setState({ timestamp: Date.now() })
         }
 
-        // Si ça correspond au personnage actuel
+
+        // -> Si ça correspond au personnage actuel
         if (e.target.value.toLowerCase() === this.state.display.name.toLowerCase()) {
+            // On augmente de 1 l'étape
             var etape = this.state.etape
             etape++
 
@@ -76,7 +81,7 @@ export default class game extends Component {
                 {this.state.finish === true && <ModalFinish timestamp={this.state.timestamp} />}
 
                 <div className='bottom-bloc'>
-                    <input className='input-character' value={this.state.input} onChange={this.handleChange} autoFocus={true}></input>
+                    <input className='input-character' value={this.state.input} onChange={this.handleChange} autoFocus={true} ></input>
                 </div>
             </>
         )
