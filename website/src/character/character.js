@@ -1,8 +1,5 @@
-import React, { Component } from 'react'
-import characters from "../data/characters.json"
+import React from 'react'
 import "./character.css"
-
-var _ = require('lodash');
 
 
 export default function character(props) {
