@@ -81,6 +81,7 @@ export default class game extends Component {
                 {this.state.finish === true && <ModalFinish timestamp={this.state.timestamp} />}
 
                 <div className='bottom-bloc'>
+                    <p className='game-bottom-total'>{this.state.etape}/{this.state.total}</p>
                     <input className='input-character' value={this.state.input} onChange={this.handleChange} autoFocus={true} ></input>
                 </div>
             </>
