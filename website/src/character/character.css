@@ -5,6 +5,7 @@
     text-align: center;
     width: 100vw;
     transition: 200ms;
+    animation: 300ms opacity;
 }
 
 .character-image {
@@ -13,4 +14,14 @@
     width: 100vw;
     height: 100vh;
     backdrop-filter: blur(2px);
+}
+
+@keyframes opacity {
+    from {
+        opacity: 0.3;
+    }
+
+    to {
+        opacity: 1;
+    }
 }
