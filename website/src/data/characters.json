@@ -1,34 +1,252 @@
 [
     {
-        "name": "Albedo",
-        "image": "https://paimon.moe/images/characters/albedo.png"
-    },
-    {
-        "name": "Aloy",
-        "image": "https://paimon.moe/images/characters/aloy.png"
+        "name": "Jean",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/b51565c6f1298e534e90b6e63332e9c1_7571305237916313667.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
     },
     {
         "name": "Amber",
-        "image": "https://paimon.moe/images/characters/amber.png"
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/6f0ef40157e95b0d59455c12f4d3f270_1435205957521765795.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
     },
     {
-        "name": "Arataki Itto",
-        "image": "https://paimon.moe/images/characters/arataki_itto.png"
+        "name": "Lisa",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/43922f5162840c215638affedad0459a_8909799910611066179.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Kaeya",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/cbce61ef1ee5586c4e77b2070348685f_8189470938544529817.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
     },
     {
         "name": "Barbara",
-        "image": "https://paimon.moe/images/characters/barbara.png"
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/6c009f0631eb71e697c2da76b608a51e_3620959067688390249.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Diluc",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/f5ae62eff2cf426e98626c882dd0cf0d_7766807911775445748.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Razor",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/a1594317bbd0cefeb7da501f9879375b_6564840726391970131.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Venti",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/965e940e6caafe8fbd4bf0e17653000b_3884855727110361524.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Klee",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/16cff1c00f651f98427fc3fbab7fc855_7661002527870266132.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Bennett",
+        "image": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200312/2020031220143721515.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Noëlle",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/c8a5da498d29faa1c8f2e2bfb60efbd5_4702784166377611936.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Fischl",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/96297a7f2679bf0dce4fb9d11120b882_781988088545441210.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Sucrose",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/448bc697f852e5726717fa2be839eedc_2941947181158531739.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Mona",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/9e4203089ad086d328973adf3f6e8c7b_8132947395876555007.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Diona",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/fb11c57bf9789d760d70d35ce634ebe1_2721638044706979627.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Albedo",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/f95b03a7d7370aa4f5de3ac9a5f161bc_1873180707502801380.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Rosalia",
+        "image": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20210325/2021032515535823348.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Eula",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/4c4b8babc68ffedce9bd5766b60e1ae5_3620959067688390249.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Aloy",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/9344fdabebf5e14d8ecaf34253d838c0_623081679105872342.png",
+        "background": "https://i.imgur.com/9mbYpaD.jpg"
+    },
+    {
+        "name": "Xiao",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/930f3ce55517e3c711a962c82e4639c0_1903573174082223930.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
     },
     {
         "name": "Beidou",
-        "image": "https://paimon.moe/images/characters/beidou.png"
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/01d9b164e0de2611c84ccdec5b84ced8_7425349385131153733.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
     },
     {
-        "name": "bennett",
-        "image": "https://paimon.moe/images/characters/bennett.png"
+        "name": "Ningguang",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/d35a0a1d13f821fd55a6951210c672ac_5092740932683282978.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Xiangling",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/1169862f9fa35734b06ce09c96dad9ae_5160863066495934925.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Xingqiu",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/4569d28adb1d8fa4394b8d02886abe7a_3425416317829935768.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
     },
     {
         "name": "Chongyun",
-        "image": "https://paimon.moe/images/characters/chongyun.png"
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/d0accc6031019427d20d2f009169d7cd_9157370635674653625.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Qiqi",
+        "image": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200903/2020090317032344876.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Keqing",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/d063646e97392638e07da24ce6b8c3cb_4422353472170549208.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Tartaglia",
+        "image": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20201103/2020110321435751462.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Zhongli",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/e699d7e2413ed5dfb384ee48c2b872d3_6133047478179177360.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Xinyan",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/3deca8e73a03e779087b74ebeac883cb_5685049282471200341.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Ganyu",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/1ae0d0aaad9ee9b55652ea7ec67f0465_84335803262416845.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Hu Tao",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/300df2aed5060579f08d7db601d8710d_3014562702630921590.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Yanfei",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/494f7aa4668cb7fe2d6d0463e7cc835f_1673642733202120135.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Shenhe",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/cb95a5b5d57165a4970d801c5dcf0435_5591873492564428764.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Yun jin",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/974d7a34d3cc71f74ac98e50d4b935fc_5470393081361517844.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "Yelan",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/073932dc472fa00623cefb70a18df516_6144769560189248790.png",
+        "background": "https://i.imgur.com/1FF9wUb.jpg"
+    },
+    {
+        "name": "kamisato Ayaka",
+        "image": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20210715/2021071517080564623.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Kaedehara Kazuha",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/44e2d916d9c13bca863d56423004fd98_6550329648865974488.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Yoimiya",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/593e6a6d5d8836ca2ab5c27a98593e58_3254327229906736160.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Sayu",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/982542a6c0e2dfb628a4f087fa6bde5d_2476879937659618796.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Shogun Raiden",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/fdcbc9ef8859b7077d92ae38d925e15e_3918149318303166272.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Kujou Sara",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/f05d8a7e32075403340d0d2ea8e590ff_961240912553821563.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Sangonomiya Kokomi",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/8ca5953fb331d71bc880496f5e8b7745_4432835064315798392.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Thomas",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/9d753f7cee1ed5c645340d6396c50c46_3872967550809532164.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Arataki Itto",
+        "image": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20211203/2021120310464853288.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Gorou",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/33b7b5d2536416116765a3f55e47f51a_4713122414901950153.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Yae Miko",
+        "image": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20220208/2022020815133062868.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Kamisato Ayato",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/037d6fa79d3066c5bc8711187ad2f673_633132781967306652.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Kuki Shinobu",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/21/ef220a612a40dc5d4d7c9136345f4967_1206133156917206978.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
+    },
+    {
+        "name": "Shikanoin Heizou",
+        "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/07/c20ab407d9316480290f7c690836f35c_529696965218119283.png",
+        "background": "https://i.imgur.com/qqLiSBd.jpg"
     }
 ]
