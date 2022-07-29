@@ -18,19 +18,51 @@
     min-height: 200px;
     z-index: 1000;
     border-radius: 6px;
+    background: linear-gradient(#f2f8f8, #e5f4fd);
 }
 
 .modal-title {
     text-align: center;
-    color: white;
+    color: rgb(109, 172, 255);
     font-size: 18px;
     font-weight: 700;
 }
 
 .modal-time {
     text-align: center;
-    color: white;
+    color: rgb(36, 105, 255);
     font-size: 60px;
     font-weight: 800;
     margin: 0;
+}
+
+.modal-btn-twitter {
+    width: 200px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    background: #1DA1F2;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    user-select: none;
+    transition: 200ms;
+}
+
+
+.modal-btn-twitter:hover {
+    background: #1194e6;
+    transition: 200ms;
+}
+
+
+.modal-btn-twitter a{
+    text-decoration: none;
+    color: white;
 }
