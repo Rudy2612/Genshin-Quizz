@@ -4,10 +4,15 @@ import './index.css';
 import Game from './game/game';
 import reportWebVitals from './reportWebVitals';
 
+import Header from "../src/header/header"
+import Footer from "../src/footer/footer"
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <Header />
     <Game />
+    <Footer />
   </React.StrictMode>
 );
 
