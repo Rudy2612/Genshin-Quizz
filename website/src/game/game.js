@@ -1,14 +1,12 @@
 import React, { Component } from 'react'
 import characters from "../data/characters.json"
 
-import Header from "../header/header"
 import Chartacter from "../character/character"
 import ModalFinish from '../modal/modalFinish'
 
 import "./game.css"
 
 var _ = require('lodash');
-
 
 export default class game extends Component {
 
@@ -21,7 +19,7 @@ export default class game extends Component {
 
 
     componentDidMount() {
-        // Initialisation et mélange du fichier aléatoirement
+        // Init & shake array of object
         var charactersFile = characters;
         var charactersMelange = _.shuffle(charactersFile)
         this.setState({
@@ -39,19 +37,19 @@ export default class game extends Component {
         this.setState({ input: e.target.value });
 
 
-        // -> Initialisation du timestamps du début
+        // Init timestamp at start writing
         if (!this.state.timestamp) {
             this.setState({ timestamp: Date.now() })
         }
 
 
-        // -> Si ça correspond au personnage actuel
+        // if input value == name displayed
         if (e.target.value.toLowerCase() === this.state.display.name.toLowerCase()) {
-            // On augmente de 1 l'étape
+
             var etape = this.state.etape
             etape++
 
-            // si c'était le dernier personnage => terminé
+            // if is end for array
             if (etape === this.state.total) {
                 this.setState({
                     etape: etape,
@@ -78,9 +76,9 @@ export default class game extends Component {
 
                 {this.state.finish === true && <ModalFinish timestamp={this.state.timestamp} />}
 
-                <div className='bottom-bloc'>
+                <div className='game-bottom-bloc'>
                     <p className='game-bottom-total'>{this.state.etape}/{this.state.total}</p>
-                    <input className='input-character' value={this.state.input} onChange={this.handleChange} autoFocus={true} ></input>
+                    <input className='game-input' value={this.state.input} onChange={this.handleChange} autoFocus={true}></input>
                 </div>
             </>
         )
