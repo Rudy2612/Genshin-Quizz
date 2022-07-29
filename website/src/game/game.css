@@ -23,7 +23,7 @@
     border: 3px solid #f2edea;
 }
 
-.input-character:focus {
+.game-input:focus {
     outline: none;
 }
 
