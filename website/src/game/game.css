@@ -1,15 +1,27 @@
+
+.bottom-bloc{
+    position: absolute;
+    bottom: 40px;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .input-character{
+    height: 40px;
+    width: 500px;
     font-size: 20px;
     font-weight: 500;
     border-radius: 5px;
     border: none;
+    background: #2d325a;
+    color: #FFF;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    font-size: 100%;
 }
 
 .input-character:focus{
     outline: none;
-}
-
-.input-bloc{
-    text-align: center;
-    margin-top: 50px;
 }

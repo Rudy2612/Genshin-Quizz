@@ -6,7 +6,8 @@ export default class header extends Component {
   render() {
     return (
       <header>
-        <p>Quizz Genshin</p>
+        <p className='header-title'>Quizz Genshin</p>
+        <p className='header-etape'>{this.props.etape}/{this.props.total}</p>
       </header>
     )
   }

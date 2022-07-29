@@ -1,0 +1,35 @@
+.modal-bg {
+    background: rgba(0, 0, 0, 0.70);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 800;
+}
+
+.modal-body {
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    margin-left: 25%;
+    background: #25294a;
+    min-height: 200px;
+    z-index: 1000;
+    border-radius: 6px;
+}
+
+.modal-title{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.modal-time{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-weight: 800;
+    margin: 0;
+}
