@@ -74,8 +74,6 @@ export default class game extends Component {
         return (
             <>
 
-                <Header etape={this.state.etape} total={this.state.total} />
-
                 <Chartacter display={this.state.display} />
 
                 {this.state.finish === true && <ModalFinish timestamp={this.state.timestamp} />}
